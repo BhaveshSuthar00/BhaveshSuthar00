@@ -25,7 +25,7 @@ Hello, 👋I'm Bhavesh Suthar
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
      <p align="center">
-<a href="www.linkedin.com/in/bhaveshsuthar0770" target="blank"><img align="center" margin-left ="400px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhaveshsuthar" height="50" width="80" /></a>
+<a href="https://www.linkedin.com/in/bhaveshsuthar0770" target="blank"><img align="center" margin-left ="400px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhaveshsuthar" height="50" width="80" /></a>
 <a href="https://www.instagram.com/bhavesh_suthor/" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavesh_suthor" height="50" width="80" /></a>
 </p>
 
