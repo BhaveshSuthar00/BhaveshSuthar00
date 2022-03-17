@@ -1,19 +1,21 @@
 <h1>
-Hello, 👋I'm Bhavesh Suthar
+Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Bhavesh Suthar
 </h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating interactive web apps.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooran8898&label=Profile%20views&color=0e75b6&style=flat" alt="BhaveshSuthar00" /> </p> -->
 
-- 🌱 I’m currently learning **Mern Stack.**
+- 🔭 currently i'm a student at ***Masai School***..
+
+- 🌱 I’m currently learning ***DSA*** and ***MERN Stack***.
+
+- 👯 I’m looking to ***collaborate*** on ***OpenSource Projects***
 
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
 
-- 📫 How to reach me **bhaveshs0770@gmail.com**
+- 📫 How to reach me: **bhaveshs0770@gmail.com**
 
 - 📄 [You can look at my resume](https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view)
-
-<!-- - [https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view] -->
 
 - ⚡ Fun fact **I ❤️ Anime.**
 
