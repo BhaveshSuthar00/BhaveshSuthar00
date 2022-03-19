@@ -21,7 +21,7 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhaveshsutharportfolio.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhavesh-suthar-portfolio.vercel.app/)
 
 
 <h2 align="left">☕ Let's Connect</h2>
