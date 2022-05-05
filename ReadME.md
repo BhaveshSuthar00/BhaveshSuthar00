@@ -5,17 +5,17 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooran8898&label=Profile%20views&color=0e75b6&style=flat" alt="BhaveshSuthar00" /> </p> -->
 
-- 🔭 currently i'm a student at ***Masai School***..
+- 🔭 currently i'm a student at ***Masai School***.
 
 - 🌱 I’m currently learning ***DSA*** and ***MERN Stack***.
 
 - 👯 I’m looking to ***collaborate*** on ***OpenSource Projects***
 
-- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
+- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**.
 
-- 📫 How to reach me: **bhaveshs0770@gmail.com**
+- 📫 How to reach me: **bhaveshs0770@gmail.com**.
 
-- 📄 [You can look at my resume](https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view)
+- 📄 [You can look at my resume](https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view).
 
 - ⚡ Fun fact **I ❤️ Anime.**
 
