@@ -9,13 +9,13 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 - 🌱 I’m currently learning ***DSA*** and ***MERN Stack***.
 
-- 👯 I’m looking to ***collaborate*** on ***OpenSource Projects***
+- 👯 I’m looking to ***collaborate*** on ***OpenSource Projects***.
 
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**.
 
 - 📫 How to reach me: **bhaveshs0770@gmail.com**.
 
-- 📄 [You can look at my resume](https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view).
+- 📄 [See my resume here](https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view)
 
 - ⚡ Fun fact **I ❤️ Anime.**
 
