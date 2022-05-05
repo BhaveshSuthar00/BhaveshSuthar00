@@ -13,7 +13,7 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**.
 
-- 📫 How to reach me: **bhaveshs0770@gmail.com**.
+- 📫 You can reach me on my E-mail : **bhaveshs0770@gmail.com**.
 
 - 📄 [See my resume here](https://drive.google.com/file/d/16on1-YyoLH0LuRPD8B16rhyOxSBAAnTA/view).
 
