@@ -5,8 +5,6 @@ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooran8898&label=Profile%20views&color=0e75b6&style=flat" alt="BhaveshSuthar00" /> </p> -->
 
-- 🔭 currently i'm a working at ***BITCS***.
-
 - 🌱 I’m currently learning ***DSA*** and ***MERN Stack***.
 
 - 👯 I’m looking to ***collaborate*** on ***OpenSource Projects***.
